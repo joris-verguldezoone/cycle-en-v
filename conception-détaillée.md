@@ -45,5 +45,5 @@ L'administration des droits est obligatoire pour chaque nouveau compte. En fonct
 
 ## Planning Agile (Sprints de 2 semaines)
 
-![Planning Gantt 1](GANTT.png)
-![Planning Gantt 2](backlog.png)
+![Planning Gantt 1](./GANTT.png)
+![Planning Gantt 2](./backlog.png)
