@@ -3,7 +3,7 @@
 Afin d'assurer une forte qualité logiciel dans le domaine critique des objets connecté dans la domotique, nous allons travailler en extreme programming. Cela implique différentes étapes dans la conception et la réalisation des tâches à venir. 
 
 Le rythme de rencontre avec le client est organisé sur un cycle de 2 semaines
-![[Cycle-V-min.png]]
+![](Cycle-V-min.png)
 #### Répartition des rôles:
 - Développeur back-end
 - Développeur Front-end 
@@ -24,12 +24,12 @@ Etant donné que nous intervenons sur des protocoles réseaux particuliers nous 
 
 La stratégie de test est présente pour répondre aux attentes de la qualité logiciel induite par le modèle du cycle en V. Chaque étape de conception et de réalisation devra correspondre a un type de test permettant de valider la qualité logiciel attendu. 
 
-![[pyramide-des-tests.png]]
+![](pyramide-des-tests.png)
 
 
 
 Modèle de développement - Extreme programming
-![[Extreme_Programming.svg.webp]]
+![](Extreme_Programming.svg.webp)
 Chaque étape du projet devra correspondre à un certains niveau de tests. Aussi, l'assemblage d'un cumul de petits composant devra donner lieux a des tests fonctionnels, puis end2end et enfin de charge et de sécurité. Ce qui rend le Peer Programming d'autant plus important car il faudra s'assurer de ne jamais rien oublier à la fois dans le déploiement des fonctionnalités et leur dépendances. C'est ainsi que nous assurerons qualité logiciel en testant tous les cas possibles et en ne cassant jamais la chaîne d'assemblage des composants.
 
 Chaque cycle de test devra donner lieu a un cahier des recettes.
